@@ -1,7 +1,9 @@
 
-### MATERIAS CURSADAS EN ESTE  2023
+### AÑO 2023
 
-- Me dedico a programar aplicaciones multiplataformas 
+- Me dedico a programar aplicaciones multiplataformas
+
+-  Tecnico Superior en Higiene y Seguridad en el Trabajo
 
 - Actualmente trabajo en la municipalidad de Posadas
   
