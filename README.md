@@ -3,7 +3,7 @@
 
 - Me dedico a programar aplicaciones multiplataformas
 
--  Tecnico Superior en Higiene y Seguridad en el Trabajo
+- Soy Tecnico Superior en Higiene y Seguridad en el Trabajo
 
 - Actualmente trabajo en la municipalidad de Posadas
   
