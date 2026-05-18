@@ -9,6 +9,6 @@
   
 - Concidero que el trabajo en equipo es ecencial para lograr los objetivos
 
-- actualmente estudio en la escuela de innovación de la ciudad de Posadas
+- actualmente estudio en la escuela secundaria de innovación ISFDyT Misiones de la ciudad de Posadas
 
 - cursando el 1 año de la carrera profesorado en tecnología
