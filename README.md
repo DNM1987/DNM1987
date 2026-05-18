@@ -1,5 +1,5 @@
 
-### AÑO 2023
+### AÑO 2026
 
 - Me dedico a programar aplicaciones multiplataformas
 
@@ -9,6 +9,6 @@
   
 - Concidero que el trabajo en equipo es ecencial para lograr los objetivos
 
-- actualmente estudio en el instituto Incade de la ciudad de Posadas
+- actualmente estudio en la escuela de innovación de la ciudad de Posadas
 
-- cursando el 2 año de la carrera gestion en Programacion e Inovación Tecnológica Digital
+- cursando el 1 año de la carrera profesorado en tecnología
